@@ -1,4 +1,4 @@
-datasets
+datasets===2.18.0
 scikit-learn
 tensorflow
 pandas==2.2.3
