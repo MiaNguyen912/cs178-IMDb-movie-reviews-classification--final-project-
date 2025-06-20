@@ -1,7 +1,5 @@
 # IMDB Sentiment Analysis
 
-(note: this description should be modified regularly to reflect updates for the project)
-
 This project performs sentiment analysis on the **IMDB movie reviews dataset**. Using Natural Language Processing (NLP) techniques, the model classifies movie reviews into **positive** or **negative** sentiment categories based on the text content.
 
 ## Key Features:
@@ -12,8 +10,13 @@ This project performs sentiment analysis on the **IMDB movie reviews dataset**. 
 
 ## Techniques Used:
 - **Text preprocessing** (removing stop words, tokenization, lemmatization)
-- **Bag of Words (BoW)** vectorization
+- **TF-IDF** vectorization
 - Model evaluation using **accuracy**, **precision**, **recall**, and **F1 score**
 
+## Classifiers:
+- KNN
+- Logistic regression
+- Neural Network
+- 
 ## Objective:
 This project aims to demonstrate how basic NLP techniques can be used to classify movie reviews, providing insights into how sentiment analysis can be applied to textual data.
